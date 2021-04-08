@@ -27,7 +27,7 @@ const Calculator = () => {
   return (
     <div className="mt-20 container px-4 mx-auto border-2">
       <p className="my-4 ">2) Calculator made by useEffect, useMemo & useState</p>
-      <div class="mb-5 rounded-md mx-auto w-96 p-5 bg-blue-200 border-blue-200 border-2  ">
+      <div className="mb-5 rounded-md mx-auto w-96 p-5 bg-blue-200 border-blue-200 border-2  ">
         <h1 className=" text-2xl py-3 mx-4 ">
           {value1} + {value2}
         </h1>
